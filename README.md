@@ -3,5 +3,12 @@
 ```javascript
 git clone https://github.com/Naffsisky/Converter-Desimal-to-Biner-Oktal-Heksadesimal.git
 ```
-### cd Converter-Desimal-to-Biner-Oktal-Heksadesimal
-### python converter.py
+
+
+```javascript
+cd Converter-Desimal-to-Biner-Oktal-Heksadesimal
+```
+
+```javascript
+python converter.py
+```
