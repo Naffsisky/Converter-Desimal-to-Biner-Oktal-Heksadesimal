@@ -1,5 +1,6 @@
 # CARA INSTALL
-## git clone https://github.com/Naffsisky/Converter-Desimal-to-Biner-Oktal-Heksadesimal.git
+<hr>
+git clone https://github.com/Naffsisky/Converter-Desimal-to-Biner-Oktal-Heksadesimal.git
 ```javascript
 var x = "Tes"
 console.log(x)
