@@ -1,6 +1,6 @@
 # Informasi
 
-<h1> Ini merupakan tugas 2 dari Matematika Komputasi </h1>
+### Ini merupakan tugas 2 dari Matematika Komputasi
 
 Tugas terstruktur sesi 2 (kelompok)
 Buatlah sebuah program yang dapat mengubah angka desimal menjadi angka biner. Kedua angka kemudian ditampilkan di layar.
