@@ -27,4 +27,4 @@ python converter.py
 ```
 
 ## Contact me 
-[via Instagram] (https://www.instagram.com/naffsvn/)
+[via Instagram](https://www.instagram.com/naffsvn/)
