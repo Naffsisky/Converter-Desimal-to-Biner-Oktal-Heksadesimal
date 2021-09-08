@@ -1,5 +1,16 @@
 # CARA INSTALL
 
+Tugas terstruktur sesi 2 (kelompok)
+Buatlah sebuah program yang dapat mengubah angka desimal menjadi angka biner. Kedua angka kemudian ditampilkan di layar.
+
+[OPSIONAL] Programnya dapat menerima masukan angka desimal dari pengguna.
+
+[OPSIONAL] Programnya juga dapat mengubah angka desimalnya menjadi angka oktal.
+
+[OPSIONAL] Programnya juga dapat mengubah angka desimalnya menjadi angka heksadesimal.
+
+
+
 ```javascript
 git clone https://github.com/Naffsisky/Converter-Desimal-to-Biner-Oktal-Heksadesimal.git
 ```
