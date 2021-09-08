@@ -26,4 +26,5 @@ cd Converter-Desimal-to-Biner-Oktal-Heksadesimal
 python converter.py
 ```
 
-## Contact me [via Instagram] ("https://www.instagram.com/naffsvn/")
+## Contact me 
+[via Instagram] (https://www.instagram.com/naffsvn/)
