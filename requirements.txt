@@ -1,2 +1,0 @@
-tabulate==0.8.9
-pyfiglet==0.8
