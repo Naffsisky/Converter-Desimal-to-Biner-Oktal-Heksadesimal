@@ -4,13 +4,13 @@ from itertools import zip_longest
 import pyfiglet
     
 def main():
-    result = pyfiglet.figlet_format("By : Kelompok 5 ")
+    intro = pyfiglet.figlet_format("By : Kelompok 5 ")
     q=1
     while True:
         if q==1:
             print("-----------------------------------------------------------------------------") 
             print("Program Sederhana Untuk Konversi Bilangan Desimal - Biner - Oktal - Heksadesimal")    
-            print(result)
+            print(intro)
             print("-----------------------------------------------------------------------------")          
             number = int(input("Masukkan Bilangan Desimal yang akan dikonversi : "))
             print("-----------------------------------------------------------------------------")
